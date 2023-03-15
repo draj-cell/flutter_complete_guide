@@ -1,6 +1,6 @@
 # flutter_complete_guide
 
-A new Flutter project.
+A new Flutter project about flutter basics.
 
 ## Getting Started
 
